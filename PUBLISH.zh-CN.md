@@ -1,6 +1,6 @@
 # 上传到 GitHub
 
-仓库：`TimYu111/Earning-recreation-lab`。README 标题：**Attention Is All You Need**。
+仓库：`TimYu111/Earning-recreation-lab`。
 简介：`NLP research on earnings-event returns with TF-IDF, Ridge regression, chronological validation, and Modal deployment.`
 
 这是整理好的独立目录，不要把整个 starter-modal、.venv 或研究档案拖进去。
