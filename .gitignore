@@ -1,0 +1,45 @@
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Raw archives, predictions, trained artifacts and deployment backups
+data/
+artifacts/
+models/
+*.joblib
+*.pkl
+*.pickle
+*.jsonl
+*.jsonl.gz
+oof_predictions.csv
+ridge_backups/
+v2_install_record.json
+# Environments, generated files, local tools
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.log
+dist/
+build/
+*.egg-info/
+
+# Additional model/checkpoint formats
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.safetensors
+*.ckpt
+*.npz
+*.npy
+credentials*.json
+secrets*.json
+.envrc
