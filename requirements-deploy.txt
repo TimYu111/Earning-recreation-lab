@@ -1,0 +1,6 @@
+-r requirements.txt
+modal>=1.6,<2
+fastapi>=0.110
+pydantic>=2.6,<3
+python-dotenv>=1,<2
+# Also install the official starter SDK as documented in README.md.
