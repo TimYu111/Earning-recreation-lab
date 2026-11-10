@@ -1,5 +1,3 @@
-# Attention Is All You Need
-
 **Earnings-event return prediction with TF-IDF, Ridge regression, and chronological validation.**
 
 The project title is a nod to the Transformer paper; the models here use TF-IDF and Ridge regression, not an attention architecture.
